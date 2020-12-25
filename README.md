@@ -3,6 +3,12 @@
 This project provides a Python 3 package and shell scripts
 for controlling an RGB Led component connected to a Raspberry Pi.
 
+This project is hosted at https://github.com/kevr/rgbled.
+
+If you ever need a fresh copy of the project, clone it (requires internet):
+
+    $ git clone https://github.com/kevr/rgbled
+
 ## Installation
 
 Run the following command within the project root to install `rgbled`:
